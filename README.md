@@ -4,12 +4,11 @@ This repository contains a simple console-based Tic-Tac-Toe game coded in Java. 
 
 ## How to Play
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/tech-explorer-riyaaa/tic-tac-toe-JAVA
-# Navigate to the project directory
+### Navigate to the project directory
 cd java-tic-tac-toe
-
-# Compile and run the game
+### Compile and run the game
 javac TicTacToe.java PlayTicTacToe.java
 java PlayTicTacToe
 
