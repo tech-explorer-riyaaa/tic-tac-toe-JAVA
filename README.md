@@ -3,7 +3,7 @@
 This repository contains a simple console-based Tic-Tac-Toe game coded in Java. It's designed for two players and serves as a practice project to enhance Java programming skills.
 
 ## How to Play
-```bash
+
 # Clone the repository
 git clone https://github.com/tech-explorer-riyaaa/tic-tac-toe-JAVA
 # Navigate to the project directory
