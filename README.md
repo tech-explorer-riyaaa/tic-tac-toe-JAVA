@@ -5,8 +5,7 @@ This repository contains a simple console-based Tic-Tac-Toe game coded in Java. 
 ## How to Play
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/java-tic-tac-toe.git
-
+git clone https://github.com/tech-explorer-riyaaa/tic-tac-toe-JAVA
 # Navigate to the project directory
 cd java-tic-tac-toe
 
@@ -14,7 +13,7 @@ cd java-tic-tac-toe
 javac TicTacToe.java PlayTicTacToe.java
 java PlayTicTacToe
 
-or compile & run the game in VS Code terminal.
+or compile & run the game in VS Code terminal (with necessary java supporting extensions installed).
 
 Follow the on-screen instructions to play the game. Players take turns entering their moves using row and column numbers.
 
